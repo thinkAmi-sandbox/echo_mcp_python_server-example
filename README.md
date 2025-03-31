@@ -10,3 +10,4 @@
 
 ## Related Blog (Written in Japanese)
 
+- [MCP Python SDK を使って、echoするだけのMCPサーバを作ってみた - メモ的な思考的な](https://thinkami.hatenablog.com/entry/2025/04/01/000255)
